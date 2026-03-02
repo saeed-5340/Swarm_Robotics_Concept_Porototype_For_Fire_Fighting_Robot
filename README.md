@@ -1,8 +1,7 @@
 # Swarm_Robotics_Concept_Porototype_For_Fire_Fighting_Robot
-# Swarm Robotics for Autonomous Fire Detection and Suppression
 
 [![C](https://img.shields.io/badge/language-C-72.1%25-blue)](https://github.com/saeed-5340/Swarm_Robotics_Concept_Porototype_For_Fire_Fighting_Robot)
-[![C++](https://img.shields.io/badge/language-C++-27.9%25-orange)](https://github.com/saeed-5340/Swarm_Robotics_Concept_Porototype_For_Fire_Fighting_Robot)
+[![C++](https://img.shields.io/badge/language-C++-27.9%25-orange)](https://github.com/rashed-23/Swarm_Robots_and_Fire_Fighting)
 
 This repository contains the complete codebase and documentation for an **AI‑Enabled Swarm Robotics system** that autonomously detects and extinguishes fires using a master‑slave robot architecture.
 
@@ -38,11 +37,11 @@ All project details, including circuit diagrams, sensor fusion logic, PID contro
 ## 👥 Contributors
 
 - Saeed Ahamed Mridha (2020338012)
-- Shuvo Ghose Shishir (2019338045)
-- Md. Rimon Hossain (2020338007)
 - Md. Rashedul Islam (2020338023)
+- Md. Rimon Hossain (2020338007)
 - Md. Sohel Rana (2020338034)
 - Md. Mehedi Hasan (2020338037)
+- Shuvo Ghose Shishir (2019338045)
 - Kowshic Mazumder Niloy (2019338079)
 
 **Supervisor:** Md. Kabir Hasan, Lecturer, Dept. of EEE, SUST
